@@ -1,0 +1,69 @@
+body{
+    direction: rtl;
+    width: 80%;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+
+}
+
+.logo1 {
+    width: 200px;
+    position: absolute;
+    top: 56px;
+    right: -43px;
+}
+.cont{
+    position: relative;
+}
+.logo2 {
+    width: 200px;
+    direction: rtl;
+    position: relative;
+    top: 6px;
+    left: -540px;;
+}
+table { 
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+th, td {
+  text-align: center;
+  vertical-align: middle;
+  border: solid 1px black;
+  font-weight: 600;
+}
+.Mechanics{
+    background-color: rgb(242 185 98);
+}
+
+.Hydraulic{
+    background-color: rgb(100 185 224);
+}
+
+.soil{
+    background-color:rgb(135 224 117);
+}
+
+.empty{
+    height: 15px;
+}
+hr{
+    border: solid;
+}
+.empty2 {
+    background-color: yellow;
+}
+.empty3 {
+    background-color: red;
+}
+.footerP{
+    text-align: justify;
+}
+.footer{
+    display: flex;
+    justify-content: space-between; 
+}
+
+
